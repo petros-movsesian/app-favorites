@@ -64,23 +64,6 @@ main {
 body{
   text-align: center;
 }
-.bouton{
-  display: flex;
-  justify-content: center;
-  background-color: #395692;
-  border-radius: 10px;
-  border: 4px double #395692;
-  color: #ffffff;
-  text-align: center;
-  font-size: 20px;
-  padding: 10px;
-  width: 200px;
-  cursor: pointer;
-  text-decoration: none;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
 @media (max-width: 600px) {
   nav a {
     display: block;
